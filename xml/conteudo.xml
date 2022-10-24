@@ -1,1 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+    <postagem codigo="1">
+        <titulo>Noticia 1</titulo>
+        <corpo></corpo>
+        <imagem></imagem>
+    </postagem>
+</conteudo>
