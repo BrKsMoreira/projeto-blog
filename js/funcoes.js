@@ -8,15 +8,17 @@ xmlDoc = xmlhttp.responseXML;
 
 x = xmlDoc.getElementsByTagName("postagem");
 
-function funcaoconteudo()
+function funcaoConteudo()
 {
-    for(i = 1; i <=10; i++){
+    for(i = 0;i <= 2; i++)
+    {
 
-    document.write("<tr>" + 
-    "<td>" + x[1].getAttribute("1") + "</td>" +
-    "<td>B</td>" +
-    "<td>C</td>" +
-    "<td>D</td>" +
-    "</tr>");
-}
+    document.write(
+        "<tr>" + 
+            "<td>" + x[i].getAttribute("codigo") + "</td>" +
+            "<td>B</td>" +
+            "<td>C</td>" +
+            "<td>D</td>" +
+        "</tr>");
+    }
 }

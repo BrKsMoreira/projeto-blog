@@ -3,16 +3,16 @@
     <postagem codigo="1">
         <titulo>Noticia 1</titulo>
         <corpo>Primeira Noticia: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, dolor velit. Ad cupiditate officia mollitia fugiat, eligendi nihil ea dolores, quam iure aspernatur voluptatum tempore officiis, quos laborum velit commodi.</corpo>
-        <imagem><hulk.jpg></hulk></imagem>
+        <imagem><hulk class="jpg"></hulk></imagem>
     </postagem>
     <postagem codigo="2">
         <titulo>Noticia 2</titulo>
         <corpo>Primeira Noticia: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, dolor velit. Ad cupiditate officia mollitia fugiat, eligendi nihil ea dolores, quam iure aspernatur voluptatum tempore officiis, quos laborum velit commodi.</corpo>
-        <imagem><mm.png></mm></imagem>
+        <imagem><mm class="png"></mm></imagem>
     </postagem>
     <postagem codigo="3">
         <titulo>Noticia 3</titulo>
         <corpo>Primeira Noticia: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, dolor velit. Ad cupiditate officia mollitia fugiat, eligendi nihil ea dolores, quam iure aspernatur voluptatum tempore officiis, quos laborum velit commodi.</corpo>
-        <imagem></imagem>
+        <imagem><wolwerine class="jpg"></wolwerine></imagem>
     </postagem>
 </conteudo>
