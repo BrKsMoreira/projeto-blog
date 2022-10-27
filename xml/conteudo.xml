@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <conteudo>
-    <postagem codigo="1">
-        <titulo>Noticia 1</titulo>
-        <corpo>Primeira Noticia: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, dolor velit. Ad cupiditate officia mollitia fugiat, eligendi nihil ea dolores, quam iure aspernatur voluptatum tempore officiis, quos laborum velit commodi.</corpo>
-        <imagem><hulk class="jpg"></hulk></imagem>
-    </postagem>
-    <postagem codigo="2">
-        <titulo>Noticia 2</titulo>
-        <corpo>Primeira Noticia: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, dolor velit. Ad cupiditate officia mollitia fugiat, eligendi nihil ea dolores, quam iure aspernatur voluptatum tempore officiis, quos laborum velit commodi.</corpo>
-        <imagem><mm class="png"></mm></imagem>
-    </postagem>
-    <postagem codigo="3">
-        <titulo>Noticia 3</titulo>
-        <corpo>Primeira Noticia: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, dolor velit. Ad cupiditate officia mollitia fugiat, eligendi nihil ea dolores, quam iure aspernatur voluptatum tempore officiis, quos laborum velit commodi.</corpo>
-        <imagem><wolwerine class="jpg"></wolwerine></imagem>
-    </postagem>
-</conteudo>
+   <postagem codigo="150">
+    <titulo> noticia 1 </titulo>
+    <corpo>  
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, 
+    quis. Possimus, deserunt similique. At enim fuga ex ducimus hic labore harum et vel odio quibusdam,
+     dolor amet animi cum assumenda
+     </corpo>
+     <imagem>hulk.jpg</imagem>
+     </postagem>
+      <postagem codigo="151">
+    <titulo> noticia 2 </titulo>
+    <corpo>  
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, 
+    quis. Possimus, deserunt similique. At enim fuga ex ducimus hic labore harum et vel odio quibusdam,
+     dolor amet animi cum assumenda
+     </corpo>
+     <imagem>hulk.jpg</imagem>
+     </postagem>
+      <postagem codigo="152">
+    <titulo> noticia 3 </titulo>
+    <corpo>  
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, 
+    quis. Possimus, deserunt similique. At enim fuga ex ducimus hic labore harum et vel odio quibusdam,
+     dolor amet animi cum assumenda
+     </corpo>
+     <imagem>hulk.jpg</imagem>
+     </postagem>
+   </conteudo>
